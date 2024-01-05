@@ -647,6 +647,7 @@ BoxBranding/remotes/red2/Makefile
 BoxBranding/remotes/octagon1/Makefile
 BoxBranding/remotes/octagon2/Makefile
 BoxBranding/remotes/octagon3/Makefile
+BoxBranding/remotes/octagon4/Makefile
 BoxBranding/remotes/odinm6/Makefile
 BoxBranding/remotes/odinm7/Makefile
 BoxBranding/remotes/odinm9/Makefile
