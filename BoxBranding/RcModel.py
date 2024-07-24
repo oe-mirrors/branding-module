@@ -159,6 +159,7 @@ class RcModel:
 			"gbipbox": "gb0",
 			"gbquad": "gb0",
 			"gbquad4k": "gb3",
+			"gbquad4kpro": "gb5",
 			"gbquadplus": "gb1",
 			"gbtrio4k": "gb4",
 			"gbtrio4kpro": "gb5",
