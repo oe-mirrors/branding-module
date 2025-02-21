@@ -162,7 +162,7 @@ class RcModel:
 			"gbquad4kpro": "gb7",
 			"gbquadplus": "gb1",
 			"gbtrio4k": "gb4",
-			"gbtrio4kpro": "gb5",
+			"gbtrio4kpro": "gb6",
 			"gbue4k": "gb4",
 			"gbultrase": "gb0",
 			"gbultraue": "gb0",
