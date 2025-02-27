@@ -34,8 +34,8 @@
 		<button name="AUDIO" pos="70,255" />
 		<button name="MUTE" pos="70,275" />
 		<button name="TIMER" pos="70,295" />
-		<button name="CH+" pos="104,260" />
-		<button name="CH-" pos="104,291" />
+		<button name="BOUQUET+" pos="104,260" />
+		<button name="BOUQUET-" pos="104,291" />
 		<button name="REWIND" pos="31,314" />
 		<button name="PLAY" pos="57,314" />
 		<button name="PAUSE" pos="83,314" />
