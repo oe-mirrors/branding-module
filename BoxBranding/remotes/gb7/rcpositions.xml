@@ -1,5 +1,5 @@
 <rcs>
-	<rc image="/images/remotes/gb7.png">
+	<rc id="2" image="/images/remotes/gb7.png">
 		<button id="KEY_POWER" label="POWER" pos="19,22" title="Power" shape="rect" coords="36,10,78,28" />
 		<button id="KEY_TV" label="TV/RAD" pos="79,22" title="TV / Radio" shape="rect" coords="11,14,35,28" />
 		<button id="KEY_1" label="1" pos="22,43" title="1" shape="rect" coords="11,57,41,73" />
