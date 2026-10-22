@@ -544,6 +544,10 @@ if VUDUO4KLITE
 SUBDIRS += vu4
 endif
 
+if VUPROMO
+SUBDIRS += vu4
+endif
+
 if VUZERO4K
 SUBDIRS += vu4
 endif

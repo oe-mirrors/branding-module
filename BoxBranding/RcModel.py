@@ -354,6 +354,7 @@ class RcModel:
 			"vuuno4k": "vu",
 			"vuuno4kse": "vu4",
 			"vuduo4klite": "vu4",
+			"vupromo": "vu4",
 			"vuzero": "vu",
 			"vuzero4k": "vu4",
 			"wetekhub": "wetek3",
